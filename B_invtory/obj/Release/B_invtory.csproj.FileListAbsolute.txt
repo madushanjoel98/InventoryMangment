@@ -1,0 +1,13 @@
+G:\windows\B_invtory\B_invtory\bin\Release\B_invtory.exe.config
+G:\windows\B_invtory\B_invtory\bin\Release\B_invtory.exe
+G:\windows\B_invtory\B_invtory\bin\Release\B_invtory.pdb
+G:\windows\B_invtory\B_invtory\obj\Release\B_invtory.Form1.resources
+G:\windows\B_invtory\B_invtory\obj\Release\B_invtory.Login.resources
+G:\windows\B_invtory\B_invtory\obj\Release\B_invtory.orders_form.resources
+G:\windows\B_invtory\B_invtory\obj\Release\B_invtory.Product_Frm.resources
+G:\windows\B_invtory\B_invtory\obj\Release\B_invtory.Properties.Resources.resources
+G:\windows\B_invtory\B_invtory\obj\Release\B_invtory.csproj.GenerateResource.Cache
+G:\windows\B_invtory\B_invtory\obj\Release\B_invtory.exe
+G:\windows\B_invtory\B_invtory\obj\Release\B_invtory.pdb
+G:\windows\B_invtory\B_invtory\obj\Release\B_invtory.csprojResolveAssemblyReference.cache
+G:\windows\B_invtory\B_invtory\obj\Release\B_invtory.Account_mangment.resources

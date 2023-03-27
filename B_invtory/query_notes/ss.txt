@@ -1,0 +1,1 @@
+ UPDATE human SET human.av=1 where human.id in (SELECT * from(  SELECT human.id FROM human where human.av is null limit 1)ids);
